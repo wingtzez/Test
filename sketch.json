@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:m5stack-coreink:DebugLevel=none,PartitionScheme=default,UploadSpeed=921600",
+    "name": "M5Stack-CoreInk",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}

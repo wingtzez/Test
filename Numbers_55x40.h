@@ -1,10 +1,3 @@
-//#include "Numbers_55x40.h"
-typedef struct {
-  int width;
-  int height;
-  int bitCount;
-  unsigned char *ptr;
-} image_t;
 
 unsigned char image_num_01[275] = {
   0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xf8, 0x00, 0x0f, 0xff, 0xff, 0xf8,
